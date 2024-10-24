@@ -1,0 +1,19 @@
+name: Royal Theme 
+type: theme
+description: 'Custom Theme for blog Website.'
+package: Other
+core_version_requirement: ^10 || ^11
+base theme: false
+
+libraries:
+  - royal_theme/global-styling
+
+regions:
+  social_links: Social Links
+  search: Search
+  branding: Branding
+  navigation: Main navigation
+  banner: Banner
+  content: Content
+  testimonial: Testimonial
+  footer_bottom: Footer Bottom
